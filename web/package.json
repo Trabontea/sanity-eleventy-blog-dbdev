@@ -10,7 +10,7 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel Botea",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
